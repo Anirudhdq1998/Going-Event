@@ -1,0 +1,5 @@
+{
+  "name": "EventPulse",
+  "description": "A mobile-first event discovery app featuring live status updates, location-based filtering, and detailed program schedules.",
+  "requestFramePermissions": ["geolocation"]
+}
